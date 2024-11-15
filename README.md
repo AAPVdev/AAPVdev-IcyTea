@@ -214,5 +214,4 @@ To build the project for Windows, follow these steps:
 
 ### Additional Notes
 
-- Make sure to test your app on each platform to ensure it works as expected, as there may be platform-specific quirks.
 - Refer to the official [Flutter documentation](https://flutter.dev/docs) for more detailed instructions and platform-specific guidelines.
